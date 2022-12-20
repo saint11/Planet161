@@ -1,0 +1,185 @@
+<level width="240" height="240" background="3">
+  <solids exportMode="Rectangles">
+    <rect x="0" y="0" w="240" h="16" />
+    <rect x="0" y="16" w="80" h="16" />
+    <rect x="0" y="32" w="16" h="208" />
+    <rect x="16" y="96" w="48" h="48" />
+    <rect x="16" y="144" w="32" h="16" />
+    <rect x="16" y="176" w="64" h="32" />
+    <rect x="16" y="224" w="224" h="16" />
+    <rect x="32" y="48" w="80" h="16" />
+    <rect x="64" y="128" w="16" h="16" />
+    <rect x="80" y="80" w="48" h="16" />
+    <rect x="96" y="96" w="32" h="32" />
+    <rect x="96" y="128" w="16" h="64" />
+    <rect x="112" y="176" w="16" h="16" />
+    <rect x="112" y="208" w="16" h="16" />
+    <rect x="144" y="80" w="96" h="48" />
+    <rect x="144" y="176" w="96" h="32" />
+    <rect x="160" y="48" w="16" h="32" />
+    <rect x="160" y="128" w="80" h="48" />
+    <rect x="208" y="48" w="32" h="32" />
+    <rect x="224" y="16" w="16" h="32" />
+    <rect x="224" y="208" w="16" h="16" />
+  </solids>
+  <tiles tileset="tileset" exportMode="XML">
+    <tile x="0" y="0" id="11" />
+    <tile x="0" y="1" id="11" />
+    <tile x="0" y="2" id="11" />
+    <tile x="0" y="3" id="11" />
+    <tile x="0" y="4" id="11" />
+    <tile x="0" y="5" id="11" />
+    <tile x="0" y="6" id="11" />
+    <tile x="0" y="7" id="11" />
+    <tile x="0" y="8" id="11" />
+    <tile x="0" y="9" id="11" />
+    <tile x="0" y="10" id="11" />
+    <tile x="0" y="11" id="11" />
+    <tile x="0" y="12" id="11" />
+    <tile x="0" y="13" id="11" />
+    <tile x="0" y="14" id="11" />
+    <tile x="1" y="0" id="11" />
+    <tile x="1" y="1" id="19" />
+    <tile x="1" y="6" id="34" />
+    <tile x="1" y="7" id="11" />
+    <tile x="1" y="8" id="11" />
+    <tile x="1" y="9" id="19" />
+    <tile x="1" y="11" id="34" />
+    <tile x="1" y="12" id="19" />
+    <tile x="1" y="14" id="34" />
+    <tile x="2" y="0" id="11" />
+    <tile x="2" y="1" id="19" />
+    <tile x="2" y="3" id="26" />
+    <tile x="2" y="6" id="3" />
+    <tile x="2" y="7" id="11" />
+    <tile x="2" y="8" id="11" />
+    <tile x="2" y="9" id="20" />
+    <tile x="2" y="11" id="35" />
+    <tile x="2" y="12" id="19" />
+    <tile x="2" y="14" id="35" />
+    <tile x="3" y="0" id="11" />
+    <tile x="3" y="1" id="19" />
+    <tile x="3" y="3" id="27" />
+    <tile x="3" y="6" id="4" />
+    <tile x="3" y="7" id="11" />
+    <tile x="3" y="8" id="19" />
+    <tile x="3" y="11" id="35" />
+    <tile x="3" y="12" id="19" />
+    <tile x="3" y="14" id="35" />
+    <tile x="4" y="0" id="11" />
+    <tile x="4" y="1" id="20" />
+    <tile x="4" y="3" id="27" />
+    <tile x="4" y="8" id="28" />
+    <tile x="4" y="11" id="36" />
+    <tile x="4" y="12" id="20" />
+    <tile x="4" y="14" id="35" />
+    <tile x="5" y="0" id="19" />
+    <tile x="5" y="3" id="27" />
+    <tile x="5" y="5" id="26" />
+    <tile x="5" y="14" id="35" />
+    <tile x="6" y="0" id="19" />
+    <tile x="6" y="3" id="28" />
+    <tile x="6" y="5" id="3" />
+    <tile x="6" y="6" id="10" />
+    <tile x="6" y="7" id="10" />
+    <tile x="6" y="8" id="10" />
+    <tile x="6" y="9" id="10" />
+    <tile x="6" y="10" id="10" />
+    <tile x="6" y="11" id="18" />
+    <tile x="6" y="14" id="36" />
+    <tile x="7" y="0" id="19" />
+    <tile x="7" y="5" id="4" />
+    <tile x="7" y="6" id="12" />
+    <tile x="7" y="7" id="20" />
+    <tile x="7" y="11" id="28" />
+    <tile x="7" y="13" id="6" />
+    <tile x="7" y="14" id="11" />
+    <tile x="8" y="0" id="19" />
+    <tile x="8" y="14" id="34" />
+    <tile x="9" y="0" id="19" />
+    <tile x="9" y="5" id="2" />
+    <tile x="9" y="6" id="11" />
+    <tile x="9" y="7" id="18" />
+    <tile x="9" y="11" id="2" />
+    <tile x="9" y="12" id="18" />
+    <tile x="9" y="14" id="35" />
+    <tile x="10" y="0" id="19" />
+    <tile x="10" y="3" id="6" />
+    <tile x="10" y="4" id="14" />
+    <tile x="10" y="5" id="11" />
+    <tile x="10" y="6" id="11" />
+    <tile x="10" y="7" id="11" />
+    <tile x="10" y="8" id="10" />
+    <tile x="10" y="9" id="10" />
+    <tile x="10" y="10" id="10" />
+    <tile x="10" y="11" id="11" />
+    <tile x="10" y="12" id="19" />
+    <tile x="10" y="14" id="35" />
+    <tile x="11" y="0" id="19" />
+    <tile x="11" y="5" id="11" />
+    <tile x="11" y="6" id="11" />
+    <tile x="11" y="7" id="11" />
+    <tile x="11" y="8" id="11" />
+    <tile x="11" y="9" id="11" />
+    <tile x="11" y="10" id="11" />
+    <tile x="11" y="11" id="11" />
+    <tile x="11" y="12" id="19" />
+    <tile x="11" y="14" id="35" />
+    <tile x="12" y="0" id="19" />
+    <tile x="12" y="5" id="11" />
+    <tile x="12" y="6" id="11" />
+    <tile x="12" y="7" id="11" />
+    <tile x="12" y="8" id="11" />
+    <tile x="12" y="9" id="11" />
+    <tile x="12" y="10" id="11" />
+    <tile x="12" y="11" id="11" />
+    <tile x="12" y="12" id="19" />
+    <tile x="12" y="14" id="35" />
+    <tile x="13" y="0" id="19" />
+    <tile x="13" y="3" id="2" />
+    <tile x="13" y="4" id="10" />
+    <tile x="13" y="5" id="11" />
+    <tile x="13" y="6" id="11" />
+    <tile x="13" y="7" id="11" />
+    <tile x="13" y="8" id="11" />
+    <tile x="13" y="9" id="11" />
+    <tile x="13" y="10" id="11" />
+    <tile x="13" y="11" id="11" />
+    <tile x="13" y="12" id="19" />
+    <tile x="13" y="14" id="36" />
+    <tile x="14" y="0" id="11" />
+    <tile x="14" y="1" id="11" />
+    <tile x="14" y="2" id="11" />
+    <tile x="14" y="3" id="11" />
+    <tile x="14" y="4" id="11" />
+    <tile x="14" y="5" id="11" />
+    <tile x="14" y="6" id="11" />
+    <tile x="14" y="7" id="11" />
+    <tile x="14" y="8" id="11" />
+    <tile x="14" y="9" id="11" />
+    <tile x="14" y="10" id="11" />
+    <tile x="14" y="11" id="11" />
+    <tile x="14" y="12" id="11" />
+    <tile x="14" y="13" id="11" />
+    <tile x="14" y="14" id="11" />
+  </tiles>
+  <objects>
+    <player id="0" x="32" y="208" />
+    <quackCollectible id="1" x="16" y="208" />
+    <barrel id="2" x="128" y="208" />
+    <barrel id="3" x="112" y="64" />
+    <box id="4" x="48" y="80" />
+    <pulseCollectible id="5" x="64" y="112" />
+    <box id="6" x="96" y="32" />
+    <hookCollectible id="7" x="208" y="32" />
+    <lava id="8" x="192" y="64" />
+    <lava id="9" x="176" y="64" />
+    <glossy id="11" x="112" y="128" />
+    <glossy id="12" x="112" y="144" />
+    <glossy id="13" x="112" y="160" />
+    <glossy id="14" x="144" y="160" />
+    <glossy id="15" x="144" y="144" />
+    <glossy id="16" x="144" y="128" />
+    <portal id="17" x="208" y="208" />
+  </objects>
+</level>

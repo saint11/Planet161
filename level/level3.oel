@@ -1,0 +1,86 @@
+<level width="240" height="160" background="0" message="You can only carry one weapon">
+  <solids exportMode="Rectangles">
+    <rect x="0" y="0" w="240" h="16" />
+    <rect x="0" y="16" w="16" h="144" />
+    <rect x="16" y="48" w="32" h="16" />
+    <rect x="16" y="128" w="16" h="32" />
+    <rect x="32" y="144" w="208" h="16" />
+    <rect x="64" y="48" w="16" h="16" />
+    <rect x="80" y="96" w="16" h="48" />
+    <rect x="192" y="80" w="48" h="64" />
+    <rect x="224" y="16" w="16" h="64" />
+  </solids>
+  <tiles tileset="tileset" exportMode="XML">
+    <tile x="0" y="0" id="11" />
+    <tile x="0" y="1" id="12" />
+    <tile x="0" y="2" id="12" />
+    <tile x="0" y="3" id="11" />
+    <tile x="0" y="4" id="12" />
+    <tile x="0" y="5" id="12" />
+    <tile x="0" y="6" id="12" />
+    <tile x="0" y="7" id="12" />
+    <tile x="0" y="8" id="11" />
+    <tile x="0" y="9" id="11" />
+    <tile x="1" y="0" id="19" />
+    <tile x="1" y="3" id="27" />
+    <tile x="1" y="4" id="9" />
+    <tile x="1" y="8" id="4" />
+    <tile x="1" y="9" id="11" />
+    <tile x="2" y="0" id="19" />
+    <tile x="2" y="3" id="28" />
+    <tile x="2" y="9" id="34" />
+    <tile x="3" y="0" id="19" />
+    <tile x="3" y="9" id="3" />
+    <tile x="4" y="0" id="19" />
+    <tile x="4" y="3" id="1" />
+    <tile x="4" y="4" id="9" />
+    <tile x="4" y="9" id="3" />
+    <tile x="5" y="0" id="19" />
+    <tile x="5" y="6" id="6" />
+    <tile x="5" y="7" id="14" />
+    <tile x="5" y="8" id="14" />
+    <tile x="5" y="9" id="36" />
+    <tile x="6" y="0" id="19" />
+    <tile x="6" y="9" id="11" />
+    <tile x="7" y="0" id="19" />
+    <tile x="7" y="1" id="9" />
+    <tile x="7" y="9" id="34" />
+    <tile x="8" y="0" id="19" />
+    <tile x="8" y="9" id="35" />
+    <tile x="9" y="0" id="19" />
+    <tile x="9" y="9" id="35" />
+    <tile x="10" y="0" id="19" />
+    <tile x="10" y="9" id="35" />
+    <tile x="11" y="0" id="19" />
+    <tile x="11" y="9" id="36" />
+    <tile x="12" y="0" id="19" />
+    <tile x="12" y="5" id="2" />
+    <tile x="12" y="6" id="10" />
+    <tile x="12" y="7" id="10" />
+    <tile x="12" y="8" id="10" />
+    <tile x="12" y="9" id="11" />
+    <tile x="13" y="0" id="19" />
+    <tile x="13" y="5" id="3" />
+    <tile x="13" y="6" id="11" />
+    <tile x="13" y="7" id="11" />
+    <tile x="13" y="8" id="11" />
+    <tile x="13" y="9" id="11" />
+    <tile x="14" y="0" id="11" />
+    <tile x="14" y="1" id="10" />
+    <tile x="14" y="2" id="10" />
+    <tile x="14" y="3" id="10" />
+    <tile x="14" y="4" id="10" />
+    <tile x="14" y="5" id="11" />
+    <tile x="14" y="6" id="11" />
+    <tile x="14" y="7" id="11" />
+    <tile x="14" y="8" id="11" />
+    <tile x="14" y="9" id="11" />
+  </tiles>
+  <objects>
+    <box id="0" x="64" y="32" />
+    <player id="1" x="16" y="32" />
+    <pulseCollectible id="2" x="32" y="32" />
+    <quackCollectible id="3" x="144" y="128" />
+    <portal id="4" x="208" y="64" />
+  </objects>
+</level>
